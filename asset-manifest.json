@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.3cc6f3a3.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.3cc6f3a3.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.30d4d965.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.30d4d965.js.map",
-    "static/js/2.3426b151.chunk.js": "/react-gh-pages/static/js/2.3426b151.chunk.js",
-    "static/js/2.3426b151.chunk.js.map": "/react-gh-pages/static/js/2.3426b151.chunk.js.map",
-    "static/js/3.bc0c3cad.chunk.js": "/react-gh-pages/static/js/3.bc0c3cad.chunk.js",
-    "static/js/3.bc0c3cad.chunk.js.map": "/react-gh-pages/static/js/3.bc0c3cad.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-gh-pages/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3426b151.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.3426b151.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/prexcel-react-app-server/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/prexcel-react-app-server/static/js/main.3cc6f3a3.chunk.js",
+    "main.js.map": "/prexcel-react-app-server/static/js/main.3cc6f3a3.chunk.js.map",
+    "runtime-main.js": "/prexcel-react-app-server/static/js/runtime-main.2bd8e63d.js",
+    "runtime-main.js.map": "/prexcel-react-app-server/static/js/runtime-main.2bd8e63d.js.map",
+    "static/js/2.b9c56dde.chunk.js": "/prexcel-react-app-server/static/js/2.b9c56dde.chunk.js",
+    "static/js/2.b9c56dde.chunk.js.map": "/prexcel-react-app-server/static/js/2.b9c56dde.chunk.js.map",
+    "static/js/3.bc0c3cad.chunk.js": "/prexcel-react-app-server/static/js/3.bc0c3cad.chunk.js",
+    "static/js/3.bc0c3cad.chunk.js.map": "/prexcel-react-app-server/static/js/3.bc0c3cad.chunk.js.map",
+    "index.html": "/prexcel-react-app-server/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/prexcel-react-app-server/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b9c56dde.chunk.js.LICENSE.txt": "/prexcel-react-app-server/static/js/2.b9c56dde.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/prexcel-react-app-server/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.30d4d965.js",
-    "static/js/2.3426b151.chunk.js",
+    "static/js/runtime-main.2bd8e63d.js",
+    "static/js/2.b9c56dde.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.3cc6f3a3.chunk.js"
   ]
